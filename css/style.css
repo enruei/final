@@ -17,7 +17,7 @@
 /*------------------------- Layout styles ------------------------*/
 body {
 	margin:0;
-	background:url(../images/back1.jpg) no-repeat center top #000000;
+	background:url(../images/back12.jpg) no-repeat center top #000000;
 }
 a {
 	outline:none;
@@ -95,7 +95,7 @@ a img {
 }
 .body div.content {
 	float:center;
-	width:690px;
+	width:900px;
 }
 .body div.content h1 {
 	color:blue ;
@@ -137,7 +137,7 @@ a img {
 .body div.content h3 {
 	color:#696969;
 	font-size:40px;
-	line-height:14px;
+	line-height:60px;
 	font-family: 'Conv_OpenSans-Regular';
 	margin:0;
 	font-style:regular script;
@@ -147,7 +147,7 @@ a img {
 .body div.content p {
 	color:#A52A2A;
 	font-size:30px;
-	line-height:40px;
+	line-height:10px;
 	margin:27px 0 22px;
 	text-align:left;
 }
